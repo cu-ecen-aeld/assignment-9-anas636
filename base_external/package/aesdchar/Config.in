@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESDCHAR
+	bool "aesdchar"
+	help
+	  Building and installing aesdchar driver into the root filesystem.
